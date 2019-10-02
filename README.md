@@ -1,4 +1,3 @@
 # Jira-Github-Repo
 
-TODO
-- Test out Smart Commits
+Test Moving issue
